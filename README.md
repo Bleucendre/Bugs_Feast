@@ -4,7 +4,7 @@ Can only be played on a computer, with a keyboard.
 
 For the "Game Off 2021" jam (https://itch.io/jam/game-off-2021)
 
-Due to their size, the "images" and "sounds"(sons) folders are available there:
+Due to their size, the "images" and "sounds"(sons) folders are available here:
 
 https://www.dropbox.com/sh/6yy1m0s6a7q34xt/AABupm5ZMV0bhmiUE1R7cdkCa?dl=0
 
