@@ -1,5 +1,5 @@
 # Bugs_Feast
-2D game, programmed in Lua, run with Löve2D engine.
+2D game, programmed in Lua, run with Löve2D engine (https://love2d.org/).
 Can only be played on a computer, with a keyboard.
 
 For the "Game Off 2021" jam (https://itch.io/jam/game-off-2021)
